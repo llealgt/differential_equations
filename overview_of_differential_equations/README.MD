@@ -1,0 +1,1 @@
+Folder to store all testing and experiments for "overview of differential equations" series on Youtube : https://www.youtube.com/watch?v=p_di4Zn4wz4
